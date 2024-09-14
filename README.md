@@ -18,6 +18,7 @@
   <li>zod</li>
   <li>yargs-parser</li>
   <li>Neon.tec</li>
+  <li>TypeScript</li>
 </ul>
 
 <h1>ING</h1>
@@ -40,4 +41,5 @@
   <li>zod</li>
   <li>yargs-parser</li>
   <li>Neon.tec</li>
+  <li>TypeScript</li>
 </ul>
